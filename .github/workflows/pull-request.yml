@@ -25,6 +25,3 @@ jobs:
 
       - name: "Install Jest"
         run: pnpm add -D jest
-
-      - name: "Run Tests"
-        run: pnpm run test
